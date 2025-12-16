@@ -1,0 +1,15 @@
+<h1>Module 03: MEME Mashups</h1>
+<div class="gallery">
+    <img src="images/meme1.png" alt="Meme 1">
+    <img src="images/meme2.png" alt="Meme 2">
+    <img src="images/meme3.png" alt="Meme 3">
+    <img src="images/meme4.png" alt="Meme 4">
+</div>
+<video controls width="600">
+    <source src="videos/memevideo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<section class="artist-statement">
+    <h2>Artist Statement</h2>
+    <p>Describe your MEME mashup concept and what inspired you to create it.</p>
+</section>
