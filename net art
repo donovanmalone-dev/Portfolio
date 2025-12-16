@@ -1,0 +1,11 @@
+<h1>Module 05: Net Art</h1>
+<div class="gallery">
+    <img src="images/net1.png" alt="Net Art 1">
+    <img src="images/net2.png" alt="Net Art 2">
+    <img src="images/net3.png" alt="Net Art 3">
+</div>
+<p>Check out the interactive net art page: <a href="https://sbuckius.github.io/net-art-html-hypertext-narrative/">My Net Art Narrative</a></p>
+<section class="artist-statement">
+    <h2>Artist Statement</h2>
+    <p>Describe your net art project and your narrative choices.</p>
+</section>
