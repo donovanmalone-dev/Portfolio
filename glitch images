@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 02 - Glitch Art</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="module02.html">Module 02</a></li>
+            <li><a href="module03.html">Module 03</a></li>
+            <li><a href="module04.html">Module 04</a></li>
+            <li><a href="module05.html">Module 05</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h1>Module 02: Glitch Art</h1>
+        <div class="gallery">
+            <img src="images/glitch1.png" alt="Glitch 1">
+            <img src="images/glitch2.png" alt="Glitch 2">
+            <img src="images/glitch3.png" alt="Glitch 3">
+        </div>
+        <section class="artist-statement">
+            <h2>Artist Statement</h2>
+            <p>Write 2-5 sentences about your process, inspiration, and the meaning behind these glitch images.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 My Name</p>
+    </footer>
+</body>
+</html>
